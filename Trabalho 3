@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>
+        Grupo Bruno & Maria
+    </title>
+</head>
+
+<body>
+    <h1>Ciadades</h1>
+    <ul>
+    <li>
+        <a href="#Cidade1"> <strong>Mairiporã</strong> </a>
+    </li>
+    <p>A cidade fica enconstada na Serra da Cantareira e possui uma das maiores e últimas áreas de Mata Atlântica. É famosa por suas paisagens verdes, pelo ciclismo e pela represa Paiva Castro, que abastece o sistema Cantareira. Essa é a ciadade natal do aluno Bruno Miguel</p>
+    <li>
+        <a href="#Cidade2"> <strong>Barueri</strong> </a>
+    </li>
+    <p>Barueri é conhecido por abrigar parte da área de Alphaville, região reconhecida por seus residenciais e quantidade de empresas ligadas à indústria e ao setor de serviços. Essa é a cidade de residência atual da aluna Maria Eduarda</p>
+    <li>
+        <a href="#Cidade3"> <strong>Limeira</strong> </a>
+    </li>
+    <p>Essa é a cidade onde está localizada a Faculdade de Tecnologia da Unicamp!</p>
+    <li>
+        <a href="#Cidade4"> <strong>Indaiatuba</strong> </a>
+    </li>
+    <p>Cidade emergente com um aumento grande de seus polo industrial. Essa é a cidade onde a aluno Maria Eduarda passou grande parte da sua infância.</p>
+    <li>
+        <a href="#Cidade5"> <strong>São Paulo</strong> </a>
+    </li>
+    <p>A maior cidade do pais e a décima maior no mundo e possui uma população de 12,2 milhões de habitantes. É conhecida como Cidade da Garoa, um dos seus pratos tradicionais é o famoso pão com mortadela do mercadão e seu virado à paulista. Alguns bairros famosos de São Paulo são: Vila Mariana, Pinheiros, Morumbi, Vila Olímpia, etc. </p>
+</ul>
+
+<h1 id = "Cidade1" >Mairiporã </h1>
+<a href="https://pt.wikipedia.org/wiki/Mairipor%C3%A3"> <img src="https://www.imudou.com.br/img/blog/parque-estadual-da-cantareira-mairipora.jpg" width="50%" height="50%" alt="Mairiporã1"> </a>
+<h3>Dados IBGE de Mairiporã</h3>
+<table border="2">
+<tr><td>População estimada (2020)</td><td>101.937 pessoas</td></tr>
+<tr><td>Salário médio mensal</td><td>2,3 salários mínimos</td></tr>
+<tr><td>Taxa de escolarização de 6 a 14 anos de idade [2010]</td><td>98,1 %</td></tr>
+<tr><td>PIB per capita [2018]</td><td>17.774,55 R$</td></tr>
+<tr><td>Mortalidade Infantil [2017]</td><td>8,77 óbitos por mil nascidos vivos</td></tr>
+<tr><td>Área da unidade territorial [2020]</td><td>320,697 km²</td></tr>
+</table>
+
+<h1 id="Cidade2"> Barueri</h1>
+<a href="https://pt.m.wikipedia.org/wiki/Barueri"><img src="https://blog.focusconcursos.com.br/img/uploads/thumbnails/5e455f5f7feb3-scale-1200.png" width="50%" height="50%" alt="Barueri"></a>
+<h3>Dados IBGE de Barueri</h3>
+<table border="2">
+<tr><td>População estimada (2020)</td><td>276.982 pessoas</td></tr>
+<tr><td>Salário médio mensal</td><td>4,4 salários mínimos</td></tr>
+<tr><td>Taxa de escolarização de 6 a 14 anos de idade [2010]</td><td>97,8 %</td></tr>
+<tr><td>PIB per capita [2018]</td><td>186.382,33 R$</td></tr>
+<tr><td>Mortalidade Infantil [2017]</td><td>8,47 óbitos por mil nascidos vivos</td></tr>
+<tr><td>Área da unidade territorial [2020]</td><td>65,701 km²</td></tr>
+</table>
+
+<h1 id="Cidade3">Limeira</h1>
+<a href="https://pt.wikipedia.org/wiki/Limeira"><img src="https://catagua.com.br/wp-content/uploads/2020/06/6-vantagens-de-morar-em-limeira.jpg" width="50%" height="50%" alt="Limeira"></a>
+<h3>Dados IBGE de Limeira</h3>
+<table border="2">
+<tr><td>População estimada (2020)</td><td>308.482 pessoas</td></tr>
+<tr><td>Salário médio mensal</td><td>3,0 salários mínimos</td></tr>
+<tr><td>Taxa de escolarização de 6 a 14 anos de idade [2010]</td><td>97,7 %</td></tr>
+<tr><td>PIB per capita [2018]</td><td>43.440,26 R$</td></tr>
+<tr><td>Mortalidade Infantil [2017]</td><td>8,01 óbitos por mil nascidos vivos</td></tr>
+<tr><td>Área da unidade territorial [2020]</td><td>580,711 km²</td></tr>
+</table>
+
+<h1 id="Cidade4">Indaiatuba</h1>
+<a href="https://pt.m.wikipedia.org/wiki/Indaiatuba"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQV7PQEObo-k39nt0wvzxPNqPTt0_F0kwEGw&usqp=CAU" width="50%" height="50%" alt="Indaiatuba"></a>
+<h3>Dados IBGE de Indaiatuba</h3>
+<table border="2">
+<tr><td>População estimada (2020)</td><td>256.223 pessoas</td></tr>
+<tr><td>Salário médio mensal</td><td>3,6 salários mínimos</td></tr>
+<tr><td>Taxa de escolarização de 6 a 14 anos de idade [2010]</td><td>98,2 %</td></tr>
+<tr><td>PIB per capita [2018]</td><td>63.166,46 R$</td></tr>
+<tr><td>Mortalidade Infantil [2017]</td><td>9,70 óbitos por mil nascidos vivos</td></tr>
+<tr><td>Área da unidade territorial [2020]</td><td>311,545 km²</td></tr>
+</table>
+
+<h1 id="Cidade5">São Paulo</h1>
+<a href="https://pt.wikipedia.org/wiki/S%C3%A3o_Paulo"><img src="https://www.oyorooms.com/br/fiquedeoyo/wp-content/uploads/2020/01/photo-1561592390-42c07289e9cb-719x477.jpg" width="50%" height="50%" alt="São Paulo"></a>
+<h3>Dados IBGE de São Paulo</h3>
+<table border="2">
+<tr><td>População estimada (2020)</td><td>12.325.232 pessoas</td></tr>
+<tr><td>Salário médio mensal</td><td>4,3 salários mínimos</td></tr>
+<tr><td>Taxa de escolarização de 6 a 14 anos de idade [2010]</td><td>96 %</td></tr>
+<tr><td>PIB per capita [2018]</td><td>58.691,90 R$</td></tr>
+<tr><td>Mortalidade Infantil [2017]</td><td>11,19 óbitos por mil nascidos vivos</td></tr>
+<tr><td>Área da unidade territorial [2020]</td><td>1.521,110 km²</td></tr>
+</table>
+
+<h2>Outro dados de multimídia</h2>
+<h3>Arquivo de áudio</h3>
+<audio src= "asdf.mp3" controls autoplay ></audio></audio>
+<h3>Arquivo de video</h3>
+<video src="asdfasdf.mp4"  widht="600px" autoplay controls></video>
+
+<deitails>
+<summary>Eu e Bruno</summary>
+<ol>
+    <li>Oi bb</li>
+    <li>tudo bem?</li>
+</ol>
+</deitails>
+
+
+</body>
+</html>
