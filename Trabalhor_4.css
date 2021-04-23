@@ -47,6 +47,9 @@ section{
 
 }
 
+.clear{
+  display: clear;
+}
 
 body{
 background-color:blanchedalmond ;
