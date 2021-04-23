@@ -28,7 +28,6 @@ section{
     border: solid 3px black;
     float: left;
     padding-left: 5px;
-    im
 }
 
 .center {
@@ -39,6 +38,9 @@ section{
     width: 200px;
   }
 
+.right{
+    float: right;
+}
 
 .full{
   margin-top: 3px;
