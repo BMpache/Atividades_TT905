@@ -10,4 +10,5 @@ function displayPicture(element){
 function undisplayPicture(){
     const frame = document.getElementById("frame");
     frame.style.backgroundImage = "none";
+    legenda.innerHTML = ' ';
 }
