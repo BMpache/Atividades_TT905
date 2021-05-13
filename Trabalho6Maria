@@ -58,11 +58,11 @@
 
     <section class="full">
         <h1>Album de fotos</h1>
-        <img onmouseover="displayPicture(this)" onmouseout="undisplayPicture()" src="Foto Bruno 1.png"  alt="Foto1Bruno" class="center2"/>
-        <img onmouseover="displayPicture(this)" onmouseout="undisplayPicture()" src="Foto Bruno 2.png"  alt="Foto2Bruno" class="center2"/>
-        <img onmouseover="displayPicture(this)" onmouseout="undisplayPicture()" src="Foto Bruno 3.png"  alt="Foto3Bruno" class="center2"/>
-        <img onmouseover="displayPicture(this)" onmouseout="undisplayPicture()" src="Foto Bruno 4.png"  alt="Foto4Bruno" class="center2"/>
-        <img onmouseover="displayPicture(this)" onmouseout="undisplayPicture()" src="Foto Bruno 5.png"  alt="Foto5Bruno" class="center2"/>
+        <img onmouseover="displayPicture(this)" onmouseout="undisplayPicture()" src="Foto Maria 1.jpeg"  alt="Minha mãe tirando foto minha quando criança" class="center2"/>
+        <img onmouseover="displayPicture(this)" onmouseout="undisplayPicture()" src="Foto Maria 2.jpeg"  alt="Eu na convenção de Friends no Brasil" class="center2"/>
+        <img onmouseover="displayPicture(this)" onmouseout="undisplayPicture()" src="Foto Maria 3.jpeg"  alt="Eu e meu melhor amigo toamndo café" class="center2"/>
+        <img onmouseover="displayPicture(this)" onmouseout="undisplayPicture()" src="Foto Bruno 4.png"  alt="Eu e o Bruno Miguel" class="center2"/>
+        <img onmouseover="displayPicture(this)" onmouseout="undisplayPicture()" src="Foto Bruno 5.png"  alt="Eu, Bruno Miguel e nossa amiga Mari" class="center2"/>
     </section>
 
     <section class="lado">
