@@ -1,0 +1,118 @@
+header{
+    font-family: sans-serif;
+    font-style: bold;
+    background-color: darkgray;
+    padding-bottom: 10px;
+    text-align: center;
+    border: 2px solid black;
+}
+
+h1{
+    transition-property: color;
+    transition-duration:4s;
+    transition-delay:1s;
+    transition-timing-function:linear;
+}
+
+h1:hover{
+  color: gold;
+}
+
+
+a{
+color: white;
+background-color: black;
+width: 100px;
+}
+
+a:hover{
+  background-color: pink;
+  color: brown;
+  font-size: large;
+}
+
+a:active{
+  background-color: pink;
+}
+
+a:visited{
+  background-color: darkblue;
+}
+
+details {
+  border: 0.5px solid brown;
+  border-radius: 4px;
+  padding: .20em .20em 0;
+}
+
+summary {
+  font-weight: bold;
+}
+
+ul{
+  list-style-type: circle;
+}
+
+section{
+    background-color:sandybrown;
+    display: inline-block;
+    width: 49.1%;
+    height: 400px;
+    border: solid 3px black;
+    float: left;
+    padding-left: 5px;
+}
+
+.center {
+    margin-top: 5px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+  }
+
+  .center:hover{
+transform: scale(1.05);
+  }
+
+
+.full{
+  margin-top: 3px;
+  height: 500px;
+  float: left;
+}
+
+.lado{
+  margin-top: 3px;
+  height: 500px;
+  float: right;
+}
+
+.frame{
+  margin-top: 3px;
+  height: 350px;
+  width: 350px;
+  display: block;
+  margin-left: 140px;
+  margin-right: 140px;
+  background-size: cover;
+}
+
+.legenda{
+  display: block;
+  text-align: center;
+}
+
+.center2 {
+  width : 80px ; 
+  height : 80px ;
+}
+
+.clear{
+  display: clear;
+}
+  
+body{
+  background-color:blanchedalmond ;
+
+}
